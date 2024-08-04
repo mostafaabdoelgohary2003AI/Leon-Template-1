@@ -67,3 +67,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/snake.svg" alt="Snake animation" />
+
+###
