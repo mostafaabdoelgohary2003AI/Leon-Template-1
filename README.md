@@ -65,3 +65,41 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/mostafaabdoelgohary2003AI/count.svg?"  />
 </div>
+
+###
+
+<h2 align="left">Software Used</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+</div>
+
+###
+
+<h2 align="left">Sections Breakdown:</h2>
+
+###
+
+<p align="left">- Header: Features a logo, a marquee with Arabic text, and navigation links.<br>- Landing: Introductory section with a welcoming message and a background image.<br>- Features: Highlights the key features of the agency with icons and descriptions.<br>- Services: Details the services offered, such as Graphic Design, UI & UX, Web Design, and Web Development.<br>- Portfolio: Showcases past projects with images and descriptions.<br>- About: Provides information about the agency with a combination of text and images.<br>- Contact: Includes contact details and social media links.<br>- Footer: Contains the copyright information.</p>
+
+###
+
+<h2 align="left">License</h2>
+
+###
+
+<p align="left">This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT)</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mostafaabdoelgohary2003AI/count.svg?"  />
+</div>
